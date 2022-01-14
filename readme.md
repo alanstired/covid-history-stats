@@ -4,3 +4,5 @@ For this project, I created a visualization from the number of COVID-19 cases an
 This project included each of the 6 things in one way or another. While Arrays weren't explicitly used, array functions were used to read in data from the JSON function. Conditionals were used to determine whether the new iterated value is the minimum or maximum. Variables were used extensively to remember certain values such as minimum, average, and maximum. Loops were used to search through the entire graph. Almost everything defined was in a function (for example calculatePeriodData)
 
 The main problems I had were initially getting the sketches to work (the JSON isn't properly formatted) and getting the graphs to switch. (The main reason why the code didn't work was because the brackets were improperly placed, and a bracket only meant for whether the indicator was 0 was covering a function meant for when indicator was 1.) 
+
+# [View this visualization here!](https://covid-history-stats.kingtastic.repl.co)
