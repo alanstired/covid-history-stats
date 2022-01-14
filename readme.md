@@ -1,4 +1,4 @@
-# R10 - Data Visualization (COVID Tracker)
+# R10 - Data Visualization (COVID Tracker) (reflection)
 For this project, I created a visualization from the number of COVID-19 cases and deaths. To do this, I called up the JSON from the [Covid Tracking API](https://covidtracking.com/data/api). Unfortunately, this project has been terminated since March 7th, 2021, so the data provided (A. cannot change, and B. contains information only from January 2020-March 7th, 2021.) During this project, I learned about the JSON format and making a visualization from the data provided.
 
 This project included each of the 6 things in one way or another. While Arrays weren't explicitly used, array functions were used to read in data from the JSON function. Conditionals were used to determine whether the new iterated value is the minimum or maximum. Variables were used extensively to remember certain values such as minimum, average, and maximum. Loops were used to search through the entire graph. Almost everything defined was in a function (for example calculatePeriodData)
