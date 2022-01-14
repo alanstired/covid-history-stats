@@ -5,4 +5,6 @@ This project included each of the 6 things in one way or another. While Arrays w
 
 The main problems I had were initially getting the sketches to work (the JSON isn't properly formatted) and getting the graphs to switch. (The main reason why the code didn't work was because the brackets were improperly placed, and a bracket only meant for whether the indicator was 0 was covering a function meant for when indicator was 1.) 
 
+## View positive cases with "+/=" and view deaths with "-". A physical keyboard may be required.
+
 # [View this visualization here!](https://covid-history-stats.kingtastic.repl.co)

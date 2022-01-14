@@ -228,7 +228,7 @@ function keyPressed() {
     sf = 1
     redraw();
   }
-  if (key === '+') {
+  if (key === '+' || key === '=') {
     perioddeath = 0;
     console.log(perioddeath);
     redraw();
